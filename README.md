@@ -3,7 +3,7 @@ Array (CAPA)-based Communications
 
 The code for the papers 
 
-**Z. Wang, C. Ouyang, and Y. Liu, “Beamforming Optimization for Continuous Aperture Array (CAPA)-based Communications,” *IEEE Trans. Wireless Commun.*, Early Access, Feb, 2023.** [[IEEE](https://ieeexplore.ieee.org/document/10910020)] [[Arxiv](https://arxiv.org/abs/2410.13677)]
+**Z. Wang, C. Ouyang, and Y. Liu, “Beamforming Optimization for Continuous Aperture Array (CAPA)-based Communications,” *IEEE Trans. Wireless Commun.*, Early Access, Mar, 2025.** [[IEEE](https://ieeexplore.ieee.org/document/10910020)] [[Arxiv](https://arxiv.org/abs/2410.13677)]
 
 <img decoding="async" src="./img/system_model.jpg" width="50%">
 
